@@ -1,0 +1,11 @@
+<resources>
+    <string name="team_a" translatable="false">Team A</string>
+    <string name="team_b" translatable="false">Team B</string>
+    <string name="app_name">Fairplay</string>
+    <string name="foulA">FOUL!</string>
+    <string name="yellowA">YELLOW CARD!</string>
+    <string name="redA">RED CARD!</string>
+    <string name="foulB">FOUL!</string>
+    <string name="yellowB">YELLOW CARD!</string>
+    <string name="redB">RED CARD!</string>
+</resources>

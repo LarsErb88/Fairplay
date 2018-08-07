@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fairplay</string>
+    <string name="foulA">FOUL!</string>
+    <string name="yellowA">GELBE KARTE!</string>
+    <string name="redA">ROTE KARTE!</string>
+    <string name="foulB">FOUL!</string>
+    <string name="yellowB">GELBE KARTE!</string>
+    <string name="redB">ROTE KARTE!</string>
+</resources>
